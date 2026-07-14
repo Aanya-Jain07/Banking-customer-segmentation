@@ -55,9 +55,6 @@ npm run dev
 
 The app will be available at `http://localhost:5173` by default.
 
-## Status
-
-🚧 In progress — actively being built and refined.
 
 ## Author
 
